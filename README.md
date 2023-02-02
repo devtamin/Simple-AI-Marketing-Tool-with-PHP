@@ -7,3 +7,13 @@ If you want to learn how the project is developed. You can visit https://youtu.b
 ### Application Features
 
 The application can connect with OpenAI, generate Facebook captions for online marketing, and generate images 
+
+### Setup this project
+
+After you download or clone this project, you need run this command to install PHP packages
+
+```sh
+composer install
+```
+
+Then, you have to enter an OpenAI key in ai.php and image-ai.php
